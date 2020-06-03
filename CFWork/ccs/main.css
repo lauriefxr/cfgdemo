@@ -1,0 +1,23 @@
+h1 {
+    color: aquamarine;
+}
+h3 {
+    font-size: large;
+    text-decoration: underline;
+}
+
+h4 {
+    font-family: 'Poppins', serif;
+}
+
+.artistlist {
+    border: 10px solid rgb(201, 48, 180);
+    padding: 50px;
+    margin: 20px;
+}
+
+.songlist {
+    border: 10px solid orange;
+    padding: 50px;
+    margin: 20px;
+}

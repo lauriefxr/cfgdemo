@@ -1,0 +1,28 @@
+header {
+    height: 150px;
+    background-color: grey;
+}
+.headercontainer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.headtitle {
+    color: white;
+}
+
+.name {
+    color: white;
+}
+
+h2 {
+    color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+p {
+    font-size: large;
+}
